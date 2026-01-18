@@ -59,7 +59,7 @@ To become a **Security Operations Center (SOC) Tier 1 Analyst**, where I can con
 - Investigated attacker behavior through security logs
 
 🔗 **Repository:**  
-https://github.com/YOUR-USERNAME/cowrie-honeypot-lab
+https://github.com/marcarron32-lab/honeypot_home_lab
 
 ---
 
